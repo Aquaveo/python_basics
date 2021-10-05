@@ -1,0 +1,6 @@
+name: python_basics
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter
