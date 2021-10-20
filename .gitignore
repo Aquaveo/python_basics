@@ -134,3 +134,4 @@ dmypy.json
 
 # Pycharm
 .idea
+/titanic.csv
